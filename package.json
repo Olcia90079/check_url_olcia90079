@@ -1,0 +1,14 @@
+{
+  "name": "check_url_olcia90079",
+  "version": "1.0.0",
+  "description": "a package checking whether a URL is a correct one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "olcia90079"
+  ],
+  "author": "Aleksandra Panek",
+  "license": "ISC"
+}
