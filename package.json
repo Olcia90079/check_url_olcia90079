@@ -1,5 +1,5 @@
 {
-  "name": "check_url_olcia90079",
+  "name": "check_url-olcia90079",
   "version": "1.0.0",
   "description": "a package checking whether a URL is a correct one",
   "main": "index.js",
